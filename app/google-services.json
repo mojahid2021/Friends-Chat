@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "998249471774",
+    "firebase_url": "https://coffie-chat-36bad-default-rtdb.firebaseio.com",
+    "project_id": "coffie-chat-36bad",
+    "storage_bucket": "coffie-chat-36bad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998249471774:android:1616b94c0afcd327f5330f",
+        "android_client_info": {
+          "package_name": "com.horizonhunters.coffiechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3isLJouu98ZLN9DSpqhySIHNF98TNJw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998249471774:android:065454b642a1bc20f5330f",
+        "android_client_info": {
+          "package_name": "com.horizonhunters.friendschat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3isLJouu98ZLN9DSpqhySIHNF98TNJw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
